@@ -1,7 +1,7 @@
 export default function Home() {
   return (
-    <div className="text-2xl font-bold w-20 h-20 bg-red-500 rounded m-10">
-      oi
+    <div className="h-screen bg-zinc-900 text-zinc-50">
+      <h1 className="text-2xl font-bold">Sua cápsula do tempo</h1>
     </div>
   )
 }
